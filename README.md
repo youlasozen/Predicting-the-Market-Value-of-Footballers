@@ -1,5 +1,5 @@
 # Predicting-the-Market-Value-of-Footballers
-<img align="middle" alt="GIF" src="https://github.com/youlasozen/Predicting-the-Market-Value-of-Footballers/blob/main/images/futbol.gif.gif?raw=true" width="500"/>
+<img align="middle" alt="GIF" src="https://github.com/youlasozen/Predicting-the-Market-Value-of-Footballers/blob/main/images/futbol.gif.gif?raw=true" width="1000"/>
 <h3> About this project </h3>
 - In this study, the prediction of the market value of the football players whose specific features were entered was performed.
 
