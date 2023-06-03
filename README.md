@@ -6,3 +6,5 @@
 - It turns out that “ball control” is more important than other features, according to my feature selection.
 
 -To take this project further, more attention could be paid to the feature engineering parts, for example, as I mentioned in the article, one-hot encoding could be used to infer teams or mathematical operations could be done to increase the correlation between some features, like averaging two columns. And as a further future project, we could publish this model as a website, with a simple interface that would allow users, such as coaches, to know in advance how much market value their players will have in a completely online environment.
+
+- Project's medium article https://medium.com/@yulasozen/predicting-football-players-market-value-using-machine-learning-b28be298e91e 
